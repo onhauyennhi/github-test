@@ -1,0 +1,16 @@
+*{
+    --height-navbar:50px;
+    --navbar-color:#363636;
+    --text-color:#333333;
+    --primary-color:#0c8eff;
+}
+*{
+    box-sizing: inherit;
+}
+html{
+    /*HACK*/
+    font-size:62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
